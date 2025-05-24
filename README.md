@@ -11,14 +11,14 @@ Desarrollador de Aplicaciones Web 💻 | Apasionado del diseño UI ✨ | Fronten
 ## 🧠 Sobre mí
 
 ¡Bienvenido a mi espacio en GitHub!  
-Acabo de terminar mis estudios de Desarrollo de Aplicaciones Web (DAW) y estoy listo para demostrar lo que sé y seguir aprendiendo como una bestia.
+Acabo de terminar mis estudios de Desarrollo de Aplicaciones Web y estoy listo para demostrar lo que sé y seguir aprendiendo como una bestia.
 
 Me encanta el **frontend**, donde puedo combinar código y creatividad para construir interfaces bonitas, funcionales y con alma. Pero también me muevo por el backend cuando hace falta 💪.
 
 - 🎨 Diseño UI/UX y estilazos modernos
 - ⚙️ Laravel, PHP, JavaScript, TypeScript
 - 📦 Node.js, Express, MySQL, MongoDB
-- 🌐 HTML, CSS, SCSS, Tailwind, Angular
+- 🌐 HTML, CSS, SCSS, Angular
 - 🤖 Scraping, APIs, automatizaciones... y lo que se venga
 
 ---
@@ -27,8 +27,7 @@ Me encanta el **frontend**, donde puedo combinar código y creatividad para cons
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| **SENTA2** | Plataforma de reservas para restaurantes con estilo tipo Netflix | Laravel · Angular · MySQL · SCSS |
-| **ReserV** | App de reservas para peluquerías, con diseño animado y panel pro | Laravel · Tailwind · Firebase |
+| **ReserV** | App de reservas para peluquerías, con diseño animado y panel pro | Angular · Tailwind · Firebase |
 | **INE DataTool** | Análisis visual y scraping de datos públicos del INE | Laravel · Chart.js · Puppeteer |
 
 Explora mis repos para ver el código y flipar con los gráficos 👀
