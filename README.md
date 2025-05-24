@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/banner-informatico-pixel.gif" alt="Boos Banner" width="100%">
 </p>
 
-# 👋 ¡Hola! Soy Jose Ma (a.k.a. Boos)
+# 👋 ¡Hola! Soy Jose Ma
 
 Desarrollador de Aplicaciones Web 💻 | Apasionado del diseño UI ✨ | Frontend enjoyer 🖌️
 
