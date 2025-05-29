@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/QzlTTA0.png" alt="Boos Banner" width="100%">
+  <img src="https://i.imgur.com/0gWWc9C.png" alt="Boos Banner" width="100%">
 </p>
 
 # 👋 ¡Hola! Soy Jose Ma
