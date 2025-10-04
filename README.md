@@ -52,7 +52,7 @@ Me encanta el **frontend**, donde puedo combinar código y creatividad para cons
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | **ReserV** | App de reservas para peluquerías, con diseño animado y panel pro | Angular · Tailwind · Firebase |
-| **INE DataTool** | Análisis visual y scraping de datos públicos del INE | Laravel · Chart.js · Puppeteer |
+| **Zensus** | Análisis visual y scraping de datos públicos del INE | Laravel · Chart.js · Puppeteer |
 
 Explora mis repos para ver el código y flipar con los gráficos 👀
 
