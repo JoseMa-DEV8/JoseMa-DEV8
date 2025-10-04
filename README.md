@@ -6,7 +6,7 @@
 ## 🧠 Sobre mí
 
 ¡Bienvenido a mi espacio en GitHub!  
-Acabo de terminar mis estudios de Desarrollo de Aplicaciones Web y estoy listo para demostrar lo que sé y seguir aprendiendo como una bestia.
+Desarrollador de Aplicaciones Web Junior y estoy listo para demostrar lo que sé y seguir aprendiendo como una bestia.
 
 ## 🛠️ Habilidades
 <p>
